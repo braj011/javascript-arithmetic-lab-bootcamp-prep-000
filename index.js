@@ -62,6 +62,7 @@ describe('makeInt(n)', function() {
 
 
 
+
 /*  TESTS - 2 to pass
 describe('preserveDecimal(n)', function() {
   it('preserves n\'s decimals (it parses n as a floating point number) and returns the parsed number', function() {
