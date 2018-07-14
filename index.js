@@ -60,7 +60,8 @@ describe('makeInt(n)', function() {
 
 
 
-
+function preserveDecimal(n) { 
+  return parseFloat(n, )
 
 
 /*  TESTS - 2 to pass
